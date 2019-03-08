@@ -1,0 +1,11 @@
+
+h1 {text-align:center;}
+h1 {font-family: Herculanum,"Eras Demi ITC",sans-serif;}
+h1 {font-size: 80px;}
+
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em
+}
+p {font-family:'Bodoni MT', Didot, 'Didot LT STD', 'Hoefler Text';}

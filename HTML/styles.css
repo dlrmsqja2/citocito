@@ -1,0 +1,19 @@
+#video-background {
+position: fixed;
+right: 0;
+bottom: 0;
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+z-index: -100;
+}
+
+
+
+body {text-align: center;
+color: white;}
+h1 {font-family: Herculanum,"Eras Demi ITC",sans-serif;}
+h1 {font-size: 80px;}
+span {font-family: Herculanum,"Eras Demi ITC",sans-serif; font-size: 20px}
+p {font-family:'Bodoni MT', Didot, 'Didot LT STD', 'Hoefler Text';}
